@@ -19,20 +19,14 @@ All visuals and animations were built using **HTML, CSS, Bootstrap, and JavaScri
 ---
 
 ## 🧭 Sitemap
-Home
 
-About
-
-Mission
-
-Donation Section
-
-Testimonials
-
-Team
-
-Contact
-
+Home  
+About  
+Mission  
+Donation Section  
+Testimonials  
+Team  
+Contact  
 
 ---
 
@@ -60,7 +54,7 @@ Contact
 
 ## 🌐 Deployment Details
 
-- **Deployed Website:** [🔗 Bright Minds Foundation (Live)](https://bmf-rho.vercel.app/)
+- **Deployed Website:** [🔗 Bright Minds Foundation (Live)](https://bmf-rho.vercel.app/)  
 - **Public Repository:** [💻 GitHub Repo](https://github.com/princelola245-source/chaity)
 
 The website is deployed using **Vercel Hosting**, and linked to a custom domain for accessibility.
